@@ -1,5 +1,4 @@
 
-<script>    
     var min = 0;
     var sec = 0;
     var ms = 0;
@@ -37,4 +36,3 @@
         msH.innerHTML = ms;
         pause(); 
            }
-</script>
